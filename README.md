@@ -1,4 +1,4 @@
-#First Pair Assignment for Introduction to Collaborative Social Science Data Analysis (MPP-E1180)[<img src="https://www.hertie-school.org/fileadmin/images/Downloads/media_events/HSG_Logo_rgb.jpg" align="top" height="75" width ="150"/>](https://www.hertie-school.org/)
+#First Pair Assignment for Introduction to Collaborative Social Science Data Analysis (MPP-E1180)[<img src="https://www.hertie-school.org/fileadmin/images/Downloads/media_events/HSG_Logo_rgb.jpg" align="right" height="75" width ="150"/>](https://www.hertie-school.org/)
 
 Dan Murphy & Paulo Kalkhake
 October 7, 2016
