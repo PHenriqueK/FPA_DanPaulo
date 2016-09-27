@@ -1,4 +1,4 @@
-#First Pair Assignment for Introduction to Collaborative Social Science Data Analysis (MPP-E1180)
+#First Pair Assignment for Introduction to Collaborative Social Science Data Analysis (MPP-E1180) 
 
 Dan Murphy & Paulo Kalkhake
 October 7, 2016
@@ -19,11 +19,3 @@ October 7, 2016
 perform basic transformations on the data, and illustrate the datas' distributions using a variety **relevant of descriptive statistics**. 
 
 At least one file must **dynamically link** to another in a substantively meaningful way. Finally, another pair must make a pull request and it should be discussed and merged.
-
----
-
-<img src="https://www.hertie-school.org/mediaandevents/press/downloads/hertie-school-downloads/" align="left" height="75" width ="150"/>
-
-<br>
-<br>
-<br>
