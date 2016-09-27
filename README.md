@@ -20,3 +20,10 @@ perform basic transformations on the data, and illustrate the datas' distributio
 
 At least one file must **dynamically link** to another in a substantively meaningful way. Finally, another pair must make a pull request and it should be discussed and merged.
 
+---
+
+[<img src="img/HertieLogoBasic.png" align="left" height="75" width ="150"/>](http://www.hertie-school.org/)
+
+<br>
+<br>
+<br>
