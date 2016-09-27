@@ -1,4 +1,4 @@
-First Pair Assignment for Introduction to Collaborative Social Science Data Analysis (MPP-E1180)
+#First Pair Assignment for Introduction to Collaborative Social Science Data Analysis (MPP-E1180)
 
 The first pair assignment is designed to develop your understanding of file structures, version control, and basic R data structures and descriptive statistics. 
 
