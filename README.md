@@ -7,7 +7,7 @@ October 7, 2016
 
 ###Data Set 1 from fivethirtyeight
 
-[This is a Link to Google](google.de)
+[This is a Link to Google](http://google.de)
 
 ###Data Set 2 from fivethirtyeight
 
