@@ -22,7 +22,7 @@ At least one file must **dynamically link** to another in a substantively meanin
 
 ---
 
-[<img src="https://www.hertie-school.org/mediaandevents/press/downloads/hertie-school-downloads/" align="left" height="75" width ="150"/>](http://www.hertie-school.org/)
+[<img src="https://www.hertie-school.org/mediaandevents/press/downloads/hertie-school-downloads/" align="left" height="75" width ="150"/>]
 
 <br>
 <br>
