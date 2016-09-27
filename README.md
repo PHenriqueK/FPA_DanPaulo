@@ -7,8 +7,8 @@ October 7, 2016
 
 | Name                    | k | Due              |
 | ----------------------- | --------------------- | ---------------- |
-| Pair Assignment 1       | 10%                   | 7 October        |
-| Pair Assignment 2       | 10%                   | 28 October       |
+| Data Set 1 from fivethirtyeight     | 10%                   | 7 October        |
+| Data Set 2 from fivethirtyeight       | 10%                   | 28 October       |
 | Pair Assignment 3       | 10%                   | 11 November      |
 
 ###Data Set 1 from fivethirtyeight
