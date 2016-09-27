@@ -9,7 +9,6 @@ October 7, 2016
 | ----------------------- | --------------------- | ---------------- |
 | Data Set 1 from fivethirtyeight     | 10%                   | 7 October        |
 | Data Set 2 from fivethirtyeight       | 10%                   | 28 October       |
-| Pair Assignment 3       | 10%                   | 11 November      |
 
 ###Data Set 1 from fivethirtyeight
 
