@@ -20,4 +20,4 @@ perform basic transformations on the data, and illustrate the datas' distributio
 
 At least one file must **dynamically link** to another in a substantively meaningful way. Finally, another pair must make a pull request and it should be discussed and merged.
 
-[[https://www.hertie-school.org/fileadmin/images/Downloads/media_events/HSG_Logo_rgb.jpg]]
+[<img src="img/HSG_Logo_rgb.jpg" align="left" height="75" width ="150"/>](https://www.hertie-school.org/fileadmin/images/Downloads/media_events/HSG_Logo_rgb.jpg)
