@@ -1,4 +1,4 @@
-[<img src="" align="right" height="75" width ="150"/>](https://www.hertie-school.org/)
+[<img src="/img/HertieLogoBasic.png" align="right" height="75" width ="150"/>](https://www.hertie-school.org/)
 
 #First Pair Assignment for Introduction to Collaborative Social Science Data Analysis (MPP-E1180)
 
