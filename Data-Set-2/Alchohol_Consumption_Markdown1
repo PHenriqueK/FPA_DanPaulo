@@ -1,0 +1,54 @@
+---
+title: "Alcohol Practice"
+author: "Daniel J Murphy & Paulo H Kalkhake"
+date: "September 30, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r, echo=FALSE}
+
+Alchohol_Raw <- read.csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/alcohol-consumption/drinks.csv")
+
+attach(Alchohol_Raw)
+
+summary(beer_servings)
+summary(spirit_servings)
+summary(total_litres_of_pure_alcohol)
+summary(wine_servings)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+hist(beer_servings)
+```
+
+```{r, echo=FALSE}
+cor(Alchohol_Raw[-1], method = "pearson")
+plot(beer_servings, total_litres_of_pure_alcohol)
+abline(lm(total_litres_of_pure_alcohol~beer_servings))
+text(beer_servings, total_litres_of_pure_alcohol, 
+     labels = country, cex = .5, pos = 4, col = "green")
+```
+
+```{r, echo=FALSE}
+top6 <- head(Alchohol_Raw)
+par(las = 2)
+barplot(top6$beer_servings, main = "Beer Servings", xlab = "Country", ylab = "Liters",
+        names.arg = c("Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua & Barbuda"), 
+        border = "black", col = "blue")
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
