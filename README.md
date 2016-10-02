@@ -29,3 +29,33 @@ Create a new public GitHub Repository. The repository should be fully documented
 Perform basic transformations on the data, and illustrate the datas' distributions using a variety **relevant of descriptive statistics**. 
 
 At least one file must **dynamically link** to another in a substantively meaningful way. Finally, another pair must make a pull request and it should be discussed and merged.
+
+
+Setwd!
+
+Readme
+Who worked on the project
+What did we do
+Dataset 
+What did we do? 
+
+Code 
+Humanly readable and commented
+2 sources (r standard data sets/fivethirthyeight)
+
+illustrate the datasets
+distribution
+continuance varibale
+sd
+histograms
+bar charts
+
+dynamically linked source
+
+open first scrip.r 
+
+near top source script
+
+source command
+
+
