@@ -19,6 +19,10 @@ October 7, 2016
 
 ###Data Set 2 from fivethirtyeight
 
-perform basic transformations on the data, and illustrate the datas' distributions using a variety **relevant of descriptive statistics**. 
+#Assignment Instructions
+
+Create a new public GitHub Repository. The repository should be fully documented, including an informative README.md file. The repository should also include R source code files that acces at least two data sets from fivethirtyeight. 
+
+Perform basic transformations on the data, and illustrate the datas' distributions using a variety **relevant of descriptive statistics**. 
 
 At least one file must **dynamically link** to another in a substantively meaningful way. Finally, another pair must make a pull request and it should be discussed and merged.
