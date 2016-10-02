@@ -15,13 +15,14 @@ October 7, 2016
 
 ###Data Set 1 from fivethirtyeight
 
-[This is a Link to Google](http://google.de)
-
 [Data Set 1](https://github.com/PHenriqueK/FPA_DanPaulo/tree/master/Data-Set-1)
 
 ###Data Set 2 from fivethirtyeight
 
-#Assignment Instructions
+[Data Set 2](https://github.com/PHenriqueK/FPA_DanPaulo/tree/master/Data-Set-2)
+
+
+##Assignment Instructions
 
 Create a new public GitHub Repository. The repository should be fully documented, including an informative README.md file. The repository should also include R source code files that acces at least two data sets from fivethirtyeight. 
 
