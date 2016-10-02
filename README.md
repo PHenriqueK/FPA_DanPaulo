@@ -11,7 +11,7 @@ October 7, 2016
 | Name                    | k | Due              |
 | ----------------------- | --------------------- | ---------------- |
 | Data Set 1 from fivethirtyeight     | 10%                   | 7 October        |
-| Data Set 2 from fivethirtyeight       | 10%                   | 28 October       |
+| Data Set 2 from fivethirtyeight       | 10%                   | 7 October       |
 
 ###Data Set 1 from fivethirtyeight
 
